@@ -3,12 +3,12 @@
 ## PROBLEM STATEMENT:
 Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
-### INTRODUCTION:
+## INTRODUCTION:
 This repository contains a project that implements a K-means clustering algorithm to group customers of a retail store based on their purchase history. 
 The aim is to identify distinct customer segments to help in targeted marketing and improving customer satisfaction.Customer segmentation helps businesses understand 
 the needs and preferences of different groups, enabling them to tailor their marketing strategies accordingly.
 
-#### DATASET
+## DATASET
 The dataset contains information about customers' purchase history. It includes features such as:
 - Customer ID
 - Age
@@ -16,7 +16,7 @@ The dataset contains information about customers' purchase history. It includes 
 - Annual Income
 - Spending Score
 
-##### DATA PREPROCESSING:
+## DATA PREPROCESSING:
 The first step involves preprocessing the data to ensure it is suitable for clustering:
 1. **Loading the dataset**: The dataset is loaded into a Pandas DataFrame for easier manipulation.
 2. **Handling missing values**: Any missing values in the dataset are handled appropriately, either by filling them with suitable values or by removing the affected rows.
@@ -42,5 +42,5 @@ The clustering results are evaluated to ensure they are meaningful and effective
 ## CONCLUSION:
 This project demonstrates how K-means clustering can be used to segment customers based on their purchase history. The identified segments can help in understanding customer behavior and developing targeted marketing strategies.
 
-Feel free TO clarify your doubts.
+Feel free to clarify your doubts.
 Email : magnel2001@gmail.com
